@@ -1,0 +1,15 @@
+// Selecionando elementos
+
+
+
+
+
+
+
+// Função
+
+
+
+
+
+// Eventos
